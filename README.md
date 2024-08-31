@@ -23,7 +23,7 @@
 
 ##
 <div align="center">
-    <img src="./galaxia.gif" alt="Fun GIF" width="300" />
+    <img src="gifs/marciano.gif" alt="Fun GIF" width="100" />
 </div>
 
 

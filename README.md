@@ -1,6 +1,6 @@
-# Hi 👋, I'm Samuel Oviedo Paz
+<h1 align="center">Hi 👋, I'm Samuel Oviedo Paz</h1>
 
-**A computer science student from Colombia**
+### **A computer science student from Colombia**
 
 - 🔭 I’m currently learning Data Engineering
 - 💬 Ask me about **Big Data, Data Analytics, and Cloud Computing**

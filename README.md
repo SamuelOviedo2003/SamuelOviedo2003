@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samueloviedopaz)
 
 ## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -18,7 +17,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOviedo2003&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOviedo2003&layout=compact&theme=react)
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/SEVODP?theme=nord&font=Arial&ext=activity)
+
+
 
 
 <!--

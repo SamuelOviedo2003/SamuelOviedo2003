@@ -21,4 +21,10 @@
 ## Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SEVODP?theme=nord&font=Arial&ext=activity)
 
-![Fun GIF](./assets/9vsF.gif)
+##
+<div align="center">
+    <img src="./galaxia.gif" alt="Fun GIF" width="300" />
+</div>
+
+
+

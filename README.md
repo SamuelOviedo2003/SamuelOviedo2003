@@ -72,8 +72,6 @@ I am particularly interested in building **scalable data-driven systems**, autom
 - **RealEstatePro**  
   Django-based analytics platform for rental income prediction and real estate performance analysis.
 
-*(Project links can be added here)*
-
 ---
 
 <div align="center">

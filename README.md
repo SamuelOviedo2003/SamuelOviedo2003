@@ -63,17 +63,17 @@ I am particularly interested in building **scalable data-driven systems**, autom
 ---
 
 ### 🚀 Featured Projects
-- **Automated Gazette Classification System**  
-  Python-based system using NLP models to classify government publications for regulatory monitoring.
+- **RealEstatePro – Real Estate Analytics Platform**  
+  Django-based platform for rental income and property appreciation analysis using statistical models.  
+  🔗 https://github.com/vavelezr/RealEstatePro.-PI2
 
-- **Lead Management Platform**  
-  Full-stack solution with React Native, Supabase, and automated workflows using n8n.
-
-- **RealEstatePro**  
-  Django-based analytics platform for rental income prediction and real estate performance analysis.
+- **UrbanKicks – E-commerce & Inventory Management System**  
+  Django-based e-commerce system with REST APIs, inventory tracking, and automated reporting.  
+  🔗 https://github.com/luisapolanco/UrbanKicks
 
 ---
 
 <div align="center">
   <img src="gifs/marciano.gif" width="100"/>
 </div>
+

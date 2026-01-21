@@ -77,7 +77,7 @@ I am particularly interested in building **scalable data-driven systems**, autom
   Django-based e-commerce system with REST APIs, inventory tracking, and automated reporting.  
   🔗 https://github.com/luisapolanco/UrbanKicks
 
-  - **Environmental Data Platform – Relational Database Design (EAV Model)**  
+- **Environmental Data Platform – Relational Database Design (EAV Model)**  
   End-to-end design and implementation of a relational database built from scratch using an **Entity-Attribute-Value (EAV)** approach.  
   The model integrates **physicochemical, biotic, and social components**, providing flexibility to handle heterogeneous environmental data.  
   Deployed on **SQL Server**, ensuring structured storage, data integrity, and scalability for operational and regulatory analytics.
